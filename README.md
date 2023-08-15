@@ -9,4 +9,5 @@ batch convert from hexidecimal color codes to png images of their solid colors.
 
 notes:
   - the default size of the downloaded pngs is (500,500)
+  - here's the website that caused me wanting this haha: https://colordesigner.io/gradient-generator
   - don't make fun of my clunky text and using of uneeded libraries i'm new here :sob: 
